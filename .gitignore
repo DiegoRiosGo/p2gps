@@ -9,6 +9,10 @@
 .project
 .settings/
 
+# Docker
+*.log
+docker-compose.override.yml
+
 # Gradle
 .gradle
 **/build/**
