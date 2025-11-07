@@ -1,5 +1,5 @@
 #!/bin/bash 
- #aer
+ #aer2
 while ! curl http://localhost:27017/
 do 
   echo "$(date) - still trying" 
