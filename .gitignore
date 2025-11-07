@@ -12,7 +12,8 @@
 # Docker
 *.log
 docker-compose.override.yml
-./deploy/aci-multi-container.yml.
+./deploy/aci-multi-container.yml
+/deploy/aci-multi-container.yml
 
 # Gradle
 .gradle
